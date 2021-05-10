@@ -17,4 +17,9 @@
             Cada token tiene un nombre y un valor
         </p></li>
     </ul>
+    <div>
+    ---------------    -------    --------
+    |Codigo fuente| -> |lexer| -> |tokens|
+    ---------------    -------    --------
+    </div>
 </div>
